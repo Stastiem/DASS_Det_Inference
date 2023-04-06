@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='dass_inference',
-    py_modules=["dass_inference"],
+    py_modules=["dass_det"],
     version='0.0.1',
     description='DASS_Det_Inference',
     author='DASS_Det_Inference',
