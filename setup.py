@@ -7,5 +7,6 @@ setup(
     author='DASS_Det_Inference',
     author_email='DASS_Det_Inference',
     include_package_data=True,
-    packages=find_packages()
+    packages=find_packages(),
+    url='https://github.com/Stastiem/DASS_Det_Inference'
 )
